@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f1f3f6;
+}
+
+.main h1{
+    text-align: center;
+}
+
+.main
+{
+    padding: 32px;
+    width: 978px;
+    background-color: #ffffff;
+    margin: auto;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 50;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.para
+{
+    display: block;
+    font-size: 16px;
+}
