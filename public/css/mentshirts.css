@@ -12,6 +12,9 @@
     right: 100;
     top: 40;
   }
+  a{
+    text-decoration: none;
+  }
   
   body {
       margin: 0;
