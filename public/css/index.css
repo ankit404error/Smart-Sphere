@@ -723,6 +723,143 @@ video:hover{
     width: 100%;
 }
 
+@media only screen and (max-width: 800px) {
+    /* Add styles for screens with a maximum width of 800px */
+    .brands {
+        display: flex;
+        flex-wrap: wrap;
+        border: 0px;
+    }
+
+    .lower {
+        display: none;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    #hideOnMobile {
+        display: none;
+    }
+
+    .menu-button {
+        position: fixed;
+        left: 0;
+        display: block;
+    }
+
+    .new h1 {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    /* Add styles for screens with a maximum width of 400px */
+    .sidebar {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    /* Add styles for screens with a maximum width of 800px */
+    .brands {
+        display: flex;
+        flex-wrap: wrap;
+        border: 0px;
+    }
+
+    .lower {
+        display: none;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    #hideOnMobile {
+        display: none;
+    }
+
+    .menu-button {
+        position: fixed;
+        left: 0;
+        display: block;
+    }
+
+    .new h1 {
+        font-size: 40px;
+    }
+
+    /* Hide video element */
+    .vi {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    /* Add styles for screens with a maximum width of 400px */
+    .sidebar {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    /* Add styles for screens with a maximum width of 800px */
+    .brands {
+        display: flex;
+        flex-wrap: wrap;
+        border: 0px;
+    }
+
+    .lower {
+        display: none;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    #hideOnMobile {
+        display: none;
+    }
+
+    .menu-button {
+        position: fixed;
+        left: 0;
+        display: block;
+    }
+
+    .new h1 {
+        font-size: 40px;
+    }
+
+    /* Hide search bar */
+    .search_bar {
+        display: none;
+    }
+
+    /* Hide categories */
+    .categories {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    /* Add styles for screens with a maximum width of 400px */
+    .sidebar {
+        width: 100%;
+    }
+}
 
 
 
